@@ -9,3 +9,9 @@ p {
 .black-word {
   color: black;
 }
+
+.tweet-content {
+  height: 120px;
+  width: 120px;
+  background-color: skyblue;
+}
